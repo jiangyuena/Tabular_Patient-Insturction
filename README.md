@@ -12,7 +12,7 @@ pip install scikit-learn plotly
 ```
 # Download data
 
-You can download the models we trained  from [Here](https://pan.baidu.com/s/1JQQtKOKY3bK1a4pyjZOIHg?pwd=3s33 "title")
+You can download the models we trained  from [Here](https://pan.baidu.com/s/1K6p_RNlHK5tcwP5e43vSmg?pwd=avjp  "title")
 
 # Training
  python train.py --gpus 8 --batch_size 8 --arch base --setup transformer
